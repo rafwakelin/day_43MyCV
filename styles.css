@@ -1,0 +1,32 @@
+body{
+            background-color: #B7C4CF;
+        }
+hr {
+    border-style: dotted none none none;
+    width: 45%;
+    border-color: white;
+    border-width: 7px;
+}
+th {
+    text-align: left;
+    color: #005555;
+}
+p{
+    text-align: justify;
+    color: #616161;
+}
+h1{
+    color: #005555;
+}
+h3{
+    color: #005555;
+}
+h4{
+    color: #005555;
+}
+ul{
+    color: #616161;;
+}
+td{
+    color: #616161;
+}
